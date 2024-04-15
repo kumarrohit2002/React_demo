@@ -1,0 +1,12 @@
+.nirama{
+    text-align: center;
+    font-size: 1.5em;
+    background-color: aqua;
+    font-weight: bold;
+    padding: auto;
+    width: 120px;
+    height:50px;
+    text-align: center;
+    margin-right: 10px;
+    border-radius: 0.5rem;
+}
